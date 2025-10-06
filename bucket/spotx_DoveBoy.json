@@ -1,5 +1,5 @@
 {
-    "version": "0.2025.10.05.10d2e76",
+    "version": "0.2025.10.05.8d59fb3",
     "description": "SpotX patcher used for patching the desktop version of Spotify",
     "homepage": "https://github.com/SpotX-Official/SpotX",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://github.com/SpotX-Official/SpotX#MIT-1-ov-file"
     },
     "url": "https://github.com/SpotX-Official/SpotX/archive/main.zip",
-    "hash": "f0169a1890fa5aa7282f84e9efa2ef16b7cb7dcf23d7fa9e90f71d3cc607b078",
+    "hash": "e8d6ac01cafcfda20de5dc74a4ae6e740b613267354b28c6f49fe7d567cb8c48",
     "extract_dir": "SpotX-main",
     "bin": [
         [
